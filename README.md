@@ -1,42 +1,33 @@
-# Chris Collins — AI Systems Architect
+# Chris Collins
 
-I build practical AI-assisted systems for business operations, workflow automation, and decision support.
+Network architect and AI systems builder. 25+ years in enterprise infrastructure, network architecture and security, including 12.5 years as a Principal Network Engineer at Extreme Networks. Since early 2026 I've been working on AI full time: building with Claude Code and other agent tools, contract work evaluating frontier models and agents, and Arcwise, my AI automation practice for small businesses.
 
-My background is 25+ years in enterprise infrastructure, network architecture, security, and operational systems. I run Arcwise — an AI systems design practice focused on helping small and mid-sized businesses turn messy workflows, scattered tools, and tribal knowledge into cleaner operating systems.
+## Featured work
 
-I am especially interested in applied AI work that sits at the intersection of:
+### [Private RAG Second Brain](https://github.com/mrfalc0n/private-rag-second-brain)
+Self-hosted RAG over my own Notion and Google Drive, about 5,500 documents, with cited answers from a local model. Hybrid keyword and vector search, cross-encoder reranking, API tokens scoped by source and sensitivity, and an eval harness that decided every retrieval change. Built with Claude Code.
 
-- AI workflow architecture
-- Agentic systems design
-- Business process discovery
-- Automation and integrations
-- Human-in-the-loop decision support
-- Small-business operations
-- Systems thinking and technical strategy
+`LangChain` `PostgreSQL + pgvector` `FastAPI` `Ollama` `Tailscale`
 
-## Featured Work
+### [network-training](https://github.com/mrfalc0n/network-training)
+Data center fabric lab: Arista cEOS 2-spine, 4-leaf on containerlab. eBGP underlay and VXLAN/EVPN overlay, automated end to end with Ansible and verified with failure injection and cold-deploy gate tests. AI-fabric config (PFC, ECN, DSCP) is next. Troubleshooting stories live in LAB-NOTES.md.
 
-### Investment Intelligence OS Portfolio
-A public portfolio example of a multi-domain investment intelligence operating system. The design principle is research, summarize, reconcile, and prepare — without autonomous execution. It shows agent architecture, research workflows, options-income scanning patterns, account-domain reasoning, broker read-only boundaries, and human-reviewed decision support. Includes synthetic examples and demo code to show how AI-assisted research and review workflows can be structured safely.
+`Arista EOS` `containerlab` `Ansible` `BGP-EVPN`
 
-Repo: https://github.com/mrfalc0n/investment-intelligence-os-portfolio
+### [Agentic Field Ops Workflow](https://github.com/mrfalc0n/agentic-field-ops-workflow)
+Sanitized version of a real small-business workflow, job intake through invoicing, on AppSheet, Google Sheets, Apps Script and QuickBooks Online. Includes a roadmap for adding AI classification and exception handling behind human approval.
 
-### Arcwise Systems Portfolio
-A public portfolio showing how Arcwise is structured as an AI systems and technology strategy practice. This repo maps the architecture behind diagnostic offerings, business workflows, delivery systems, public positioning, and agentic operating patterns.
+### [Arcwise Systems Portfolio](https://github.com/mrfalc0n/arcwise-systems-portfolio)
+How Arcwise is put together: diagnostic workflows, delivery systems and the agent patterns behind them.
 
-It demonstrates how I think through ambiguity, separate system boundaries, create reusable workflows, and turn consulting expertise into repeatable AI-assisted delivery models.
+### [Investment Intelligence OS](https://github.com/mrfalc0n/investment-intelligence-os-portfolio)
+Research and decision-support agents for personal investing. Read-only toward brokers, no autonomous execution, synthetic data and demo code.
 
-Repo: https://github.com/mrfalc0n/arcwise-systems-portfolio
+## Certifications
+NVIDIA NCP-AIN (AI Networking) · Claude Certified Architect, Foundations · PMP
 
-### Agentic Field Ops Workflow
-A proof-of-work example based on a real small-business field-operations workflow. It shows how job intake, scheduling context, operational updates, exception handling, payout review, and invoice preparation can be structured using AppSheet, Google Sheets, Google Apps Script, and QuickBooks Online integration patterns.
+## What I'm looking for
+Roles where enterprise systems experience and hands-on AI work both count: AI solutions and deployment, AI infrastructure networking, and enterprise architecture.
 
-The project is intentionally practical: start with a usable operating layer, then design the agentic AI roadmap around classification, normalization, exception detection, proposed actions, human approval, tool execution, and auditability.
-
-Repo: https://github.com/mrfalc0n/agentic-field-ops-workflow
-
-## Current Focus
-
-I am most useful in environments where the problem is messy, the workflow is unclear, the tools are fragmented, and someone needs to translate operational reality into something structured, automatable, and useful.
-
-I am building toward AI Solutions Architect, Applied AI Product, and Agentic Workflow roles where my enterprise systems background and hands-on AI building experience can be used to turn vague business problems into working systems.
+## Contact
+chris@arcwise.io
