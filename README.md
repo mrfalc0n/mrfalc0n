@@ -1,6 +1,14 @@
 # Chris Collins
 
-Network architect and AI systems builder. 25+ years in enterprise infrastructure, network architecture and security, including 12.5 years as a Principal Network Engineer at Extreme Networks. Since early 2026 I've been working on AI full time: building with Claude Code and other agent tools, contract work evaluating frontier models and agents, and Arcwise, my AI automation practice for small businesses.
+**AI Systems Architect · AI Infrastructure Networking**
+
+I design and build AI systems, and I bring 25+ years of enterprise network architecture to the infrastructure those systems run on, including 12.5 years as a Principal Network Engineer at Extreme Networks. Since early 2026 I've worked on AI full time.
+
+## What I work on
+
+**AI systems.** Agents, RAG and evaluation, built hands-on with Claude Code and other agent tools, picking the harness and model per task. Contract work evaluating frontier models and agents: benchmarking, head-to-head evals and MCP integration testing. Through Arcwise, my practice, I build AI automation for small businesses, starting with discovery before anything gets built.
+
+**AI networking.** Data center fabric design (BGP-EVPN, VXLAN) from a career on the vendor and enterprise side, now pointed at AI infrastructure: NVIDIA NCP-AIN certified, an Ansible-automated EVPN lab, and NVIDIA DSX Air simulations of RoCEv2 congestion control (PFC, ECN, DCQCN) and rail-optimized designs.
 
 ## Featured work
 
@@ -27,7 +35,7 @@ Research and decision-support agents for personal investing. Read-only toward br
 NVIDIA NCP-AIN (AI Networking) · Claude Certified Architect, Foundations · PMP
 
 ## What I'm looking for
-Roles where enterprise systems experience and hands-on AI work both count: AI solutions and deployment, AI infrastructure networking, and enterprise architecture.
+AI solutions architecture and deployment, and AI infrastructure networking at GPU clouds, AI data centers and networking vendors.
 
 ## Contact
 chris@arcwise.io
